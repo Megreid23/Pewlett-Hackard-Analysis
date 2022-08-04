@@ -17,3 +17,10 @@ The total number of employees retiring is: 90,398. This is made up of senior eng
 This would require an equavalent number to be hired and/or promoted on to replace in each department.
 Between every department and position held by a soon to be retiree, there are 1,549 people eligible to participate in the mentorship program.
 ![mentorship_eligibilty](mentorship_eligibilty.png)
+
+The above provides a small sample of the available employees for the mentorship program. As listed, many provide senior positions, or positions that would require regular education and teaching opportunites.
+Please also see the provided table listing all current department managers to choose from to potentially replace the two retiring, the majority of whom who have been with the company for years and no doubt have a plethora of experience to draw from to fill their predecessors shoes.
+![department_managers](department_managers.png)
+
+Please also see a list of titles held by employees in the company, many of whom hold senior or assistant positions able to be moved up in the company.
+![titles](titles.png)
