@@ -23,4 +23,5 @@ Please also see the provided table listing all current department managers to ch
 ![department_managers](department_managers.png)
 
 Please also see a list of titles held by employees in the company, many of whom hold senior or assistant positions able to be moved up in the company.
+
 ![titles](titles.png)
