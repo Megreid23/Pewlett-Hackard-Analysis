@@ -13,3 +13,7 @@ The results from the analysis are:
 ## Summary
 The total number of employees retiring is: 90,398. This is made up of senior engineers, senior staff, engineers, staff, technique leaders, assistant engineers, and managers. 
 ![retiring_titles](retiring_titles.png)
+
+This would require an equavalent number to be hired and/or promoted on to replace in each department.
+Between every department and position held by a soon to be retiree, there are 1,549 people eligible to participate in the mentorship program.
+![mentorship_eligibilty](mentorship_eligibilty.png)
